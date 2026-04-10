@@ -149,3 +149,13 @@
     @apply flex justify-between items-center px-6 py-4 text-gray-500
   }
 }
+
+
+/* Trading view widget styles */
+
+.trading-view-widget-container {
+  position: relative;
+  overflow: hidden;
+  background-color: #141414 !important;
+  border-radius: 8px !important;
+}
