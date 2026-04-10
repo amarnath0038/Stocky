@@ -1,0 +1,41 @@
+{
+  "version": 4.0,
+  "atDirectives": [
+    {
+      "name": "@theme",
+      "description": "Define your project's custom design tokens."
+    },
+    {
+      "name": "@custom-variant",
+      "description": "Add a custom variant in your project."
+    },
+    {
+      "name": "@apply",
+      "description": "Inline any existing utility classes into your own custom CSS."
+    },
+    {
+      "name": "@plugin",
+      "description": "Load a legacy JavaScript-based plugin."
+    },
+    {
+      "name": "@utility",
+      "description": "Add custom utilities to your project."
+    },
+    {
+      "name": "@variant",
+      "description": "Apply a Tailwind variant to styles in your CSS."
+    },
+    {
+      "name": "@source",
+      "description": "Specify source files for automatic content detection."
+    },
+    {
+      "name": "@reference",
+      "description": "Import your main stylesheet for reference without duplicating CSS."
+    },
+    {
+      "name": "@config",
+      "description": "Load a legacy JavaScript-based configuration file."
+    }
+  ]
+}   
